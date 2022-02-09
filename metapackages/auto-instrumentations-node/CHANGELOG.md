@@ -1,5 +1,14 @@
 # Changelog
 
+### [0.27.4](https://www.github.com/open-telemetry/opentelemetry-js-contrib/compare/auto-instrumentations-node-v0.27.3...auto-instrumentations-node-v0.27.4) (2022-02-09)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @opentelemetry/instrumentation-mongodb bumped from ^0.28.0 to ^0.29.0
+
 ### [0.27.3](https://www.github.com/open-telemetry/opentelemetry-js-contrib/compare/auto-instrumentations-node-v0.27.2...auto-instrumentations-node-v0.27.3) (2022-02-06)
 
 
